@@ -1,0 +1,10 @@
+# Obsidian local workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian local files
+.trash/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
