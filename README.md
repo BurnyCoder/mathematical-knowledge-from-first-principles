@@ -1,6 +1,6 @@
-# Mathy Knowledge
+# Mathematical knowledge from first principles
 
-An Obsidian vault for building a connected knowledge base around mathematics and mathematically grounded fields.
+A goal of this Obsidian vault is to explain key concepts in AI, intelligence, physics, foundations of mathematics, etc. from first principles by defining everything to its most atomic components. leaving as little as possible undefined. And this way also finding mathematical connections between these fields.
 
 The vault is organized as short Markdown notes with Obsidian wikilinks, formulas, and source references. It is currently early-stage: some notes are developed, while others are placeholders for future expansion.
 
