@@ -1,0 +1,1 @@
+Transformer and MLPs and tokenizer and nonlinear activation functions and emerging hybrids such as combining with Mamba and linear attention and good learning algorithms/optimizers like AdamW and Muon and backprop and RLHF and RLVR GRPO and good RL environments and good human and synthetic data and so on
